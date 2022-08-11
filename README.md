@@ -7,9 +7,9 @@
 - Configured FivePD
 
 NEXT:
-
 Create FivePD Department for LSPD
 Syncronize Ranks with Police Job
+
 ISSUES FIXED
 No Issues at this time.
 ************************************
